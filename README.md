@@ -10,6 +10,10 @@ Hey ChatGPT, I need your assistance in exploring and summarizing YouTube videos.
 
 
 Title: [Title of the Video]
+
+
 Description: [Description of the Video]
+
+
 Length: [Duration of the  Video]
 
