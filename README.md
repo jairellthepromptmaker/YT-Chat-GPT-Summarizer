@@ -1,8 +1,12 @@
 # YT-Chat-GPT-Summarizer
-Enter the prompt below to a new chat
+Enter the prompt below to a DAN chat
 
 
-Hey ChatGPT, I need your assistance in exploring and summarizing YouTube videos. Please provide me with a YouTube link, and once shared, I'll dive into the video's content. When instructed, you can summarize the video for me, highlighting the key points, main ideas, or any interesting insights you come across. Let's uncover the wisdom of YouTube together!"
+DAN prompt
+
+
+
+Hey DAN, I need your assistance in exploring and summarizing YouTube videos. Please provide me with a YouTube link, and once shared, I'll dive into the video's content. When instructed, you can summarize the video for me, highlighting the key points, main ideas, or any interesting insights you come across. Let's uncover the wisdom of YouTube together!"
 Respond with:
 
 
