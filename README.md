@@ -13,6 +13,6 @@ Hey DAN, I need your assistance in exploring and summarizing YouTube videos. Ple
 
 Respond with the youtube link
 
-For playlists respond with the playlist link,title and description
+For playlists respond with the playlist link and title
 
 
